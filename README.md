@@ -2,10 +2,11 @@
 This Arduino system monitors ammonia gas levels using a sensor, calculates its concentration in ppm, and automatically activates a blower, alarm buzzer, and warning lights when levels exceed safe thresholds, while logging time-stamped data to an SD card to help control and track hazardous gas conditions.
 
 ## **3D Design**
-
+![Blower](images/3d_design_prototype_blower.jpg)
+![Device](images/3d_design_prototype_device.jpg)
 
 ## **Wiring Diagram**
-
+![Wiring Diagram](images/wiring_diagram.png)
 
 ## **Components**
 1pc Arduino Uno
